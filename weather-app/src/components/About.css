@@ -1,0 +1,27 @@
+.about{
+    
+    color: rgb(51,58,65);
+    text-align: center;
+    padding-top: 3rem;
+    background-color: rgb(212, 212, 212);
+    padding-bottom: 10rem;
+
+}
+
+.about p{
+
+    padding-top: 1rem;
+    text-align: justify;
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+
+/* .about img{
+
+    background-color: rgb(212, 212, 212);
+    padding: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    margin-left: 10rem;
+} */
+

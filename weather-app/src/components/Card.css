@@ -1,0 +1,50 @@
+.card{
+  padding-left: 1.5rem;
+  padding-right: 1rem;
+  border-radius: 10px;
+  width: 18rem;
+  margin: 1rem;
+}
+.head{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: .5rem;
+}
+
+.head-one{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.close-button{
+  border: none;
+  border-radius: 2rem;
+  background-color: rgb(249, 107, 107);
+  height: 2rem;
+  width: 2rem;
+  text-align: center;
+  padding-bottom: .25rem;
+  color: white;
+  font-weight: bold;
+}
+
+.key-value{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.coord{
+  margin-bottom: .5rem;
+  font-weight: bold;
+}
+
+h6{
+  color: rgb(57, 61, 66);
+}
+
+.value{
+  color: grey
+}

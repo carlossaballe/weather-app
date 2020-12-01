@@ -1,0 +1,17 @@
+#logoHenry {
+  margin-right: 20px;
+  
+}
+.navbar-home{
+  color: white;
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding-left: 2rem;
+}
+
+.navbar-about{
+  color: white;
+  font-weight: bold;
+  padding-right: 2rem;
+}
+
