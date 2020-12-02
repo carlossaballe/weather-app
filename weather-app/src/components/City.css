@@ -1,0 +1,41 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.left-container{
+    height: 92vh;
+    padding: 1.5rem; 
+    background-color: rgb(255, 255, 255);
+    border-right: 1px rgb(222, 222, 222) solid;
+}
+
+.title-iconII{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.titleII{
+    color: rgb(69, 122, 247);
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+
+.key-valueII{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center;
+    padding: .5rem 0 .5rem 0;
+}
+
+.keyII{
+    font-weight: bold;
+    color: rgb(108, 108, 108);
+}
+
+.valueII{
+    color: gray;
+}
