@@ -9,18 +9,15 @@ export default function About() {
             <h2>Acerca de Weather App</h2>
 
             <p>
-
-                This application is developed with ReactJS, it is a simple application in which
-                the interaction with an API is shown, in this case OpenWeather, where the weather
-                of the cities of the world can be consulted, the information is organized mainly
-                in two screens, the main one, where cards of the cities consulted are shown and
-                when clicking on their names, a detail screen and the map of the selected city is displayed.
+                Esta aplicación está desarrollada con ReactJS, es una sencilla aplicación en la que se muestra la interacción con una API, 
+                en este caso OpenWeather, en la cual se puede consultar el clima de las ciudades del mundo, la información se organiza principalmente en dos pantallas, 
+                la la principal, donde se muestran tarjetas de las ciudades consultadas y al hacer clic en sus nombres se despliega una pantalla de detalle y el mapa de la ciudad seleccionada.
             </p>
           
             <p>
-                To use this application, remember that you must have the APIs corresponding to 
-                <a href="https://openweathermap.org/api"> OpenWeather</a>  and <a href="https://cloud.google.com/"> Google</a>, you can consult the information on their respective
-                web pages. Read the README file on <a href="https://github.com/carlossaballe/weather-app"> Github weather-app repo</a>.
+                Para probar esta aplicación, recuerda que debes tener las APIs correspondientes a
+                <a href="https://openweathermap.org/api"> OpenWeather</a>  y <a href="https://cloud.google.com/"> Google,</a> puedes consultar la información correspondiente en sus respectivas
+                páginas web. Lee el archivo README.md en el <a href="https://github.com/carlossaballe/weather-app"> repositorio de Github</a>.
             </p>
 
             <br />
