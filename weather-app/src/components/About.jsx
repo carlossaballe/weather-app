@@ -9,15 +9,15 @@ export default function About() {
             <h2>Acerca de Weather App</h2>
 
             <p>
-                Esta aplicación está desarrollada con ReactJS, es una sencilla aplicación en la que se muestra la interacción con una API, 
+                Esta aplicación está desarrollada con ReactJS, es una aplicación sencilla en la que se muestra la interacción con una API, 
                 en este caso OpenWeather, en la cual se puede consultar el clima de las ciudades del mundo, la información se organiza principalmente en dos pantallas, 
-                la la principal, donde se muestran tarjetas de las ciudades consultadas y al hacer clic en sus nombres se despliega una pantalla de detalle y el mapa de la ciudad seleccionada.
+                una principal, donde se muestran tarjetas de las ciudades consultadas y al hacer clic en sus nombres se despliega una pantalla de detalle y el mapa de la ciudad seleccionada.
             </p>
           
             <p>
                 Para probar esta aplicación, recuerda que debes tener las APIs correspondientes a
-                <a href="https://openweathermap.org/api"> OpenWeather</a>  y <a href="https://cloud.google.com/"> Google,</a> puedes consultar la información correspondiente en sus respectivas
-                páginas web. Lee el archivo README.md en el <a href="https://github.com/carlossaballe/weather-app"> repositorio de Github</a>.
+                <a href="https://openweathermap.org/api"> OpenWeather</a>  y <a href="https://cloud.google.com/"> Google</a>, puedes consultar la información correspondiente en sus respectivas
+                páginas web. Lee el archivo README.md en el <a href="https://github.com/carlossaballe/weather-app"> repositorio de Github</a> para más detalles.
             </p>
 
             <br />
