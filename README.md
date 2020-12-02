@@ -1,6 +1,12 @@
 # weather-app
 React app to get information about the weather of any city of the world.
 
+### img1
+<img src="/weather-app/src/img/Screenshot1.png" alt="header">
+
+### img2
+<img src="/weather-app/src/img/Screenshot2.png" alt="header">
+
 ## how to test it?
 Get/download this repository, then make sure to create a file called credentials.js (into src folder) and in it save the following information:
 
@@ -15,4 +21,4 @@ IMPORTANT: Those APIs must be obtained from [OpenWeather](https://openweathermap
 
 Then, through the terminal, go to the weather-app folder that is inside the main folder, execute the command <b>npm install</b> and then <b>npm start</b> and that's it.
 
-<img src="screenshot1.png" alt="header">
+
