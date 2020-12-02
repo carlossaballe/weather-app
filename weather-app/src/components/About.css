@@ -1,9 +1,8 @@
 .about{
-    
     color: rgb(51,58,65);
     text-align: center;
     padding-top: 3rem;
-    background-color: rgb(212, 212, 212);
+    background-color: rgb(252, 252, 252);
     padding-bottom: 10rem;
 
 }
@@ -16,12 +15,25 @@
     padding-left: 10rem;
 }
 
-/* .about img{
-
-    background-color: rgb(212, 212, 212);
-    padding: 2rem;
-    border-radius: 1rem;
+.img-container{
+    width: 100%;
     display: flex;
-    margin-left: 10rem;
-} */
+    justify-content: center;
+    align-items: center;
+}
+
+.img1{
+    background-color: rgb(212, 212, 212);
+    border-radius: 1rem;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.img2{
+    height: 247px;
+    width: 490px;
+    background-color: rgb(212, 212, 212);
+    border-radius: 1rem;
+    padding: 2rem;
+}
 
